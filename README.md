@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-## Date: 12.04.2025
+## Date: 20.03.2025
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -25,7 +25,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
-## map.html
+### map.html
 ```
 <html>
     <head>imageapp</head>
@@ -43,8 +43,9 @@ Execute the programs and publish them.
 </map>
     </body>
 </html>
+
 ```
-## TreePark.html
+### TreePark.html
 ```
 <!DOCTYPE html>
 <html>
@@ -79,8 +80,9 @@ Execute the programs and publish them.
 
 </body>
 </html>
+
 ```
-## PineForest.html
+### PineForest.html
 ```
 <!DOCTYPE html>
 <html>
@@ -115,8 +117,9 @@ Execute the programs and publish them.
 
 </body>
 </html>
+
 ```
-## DoddabettaPeak.html
+### DoddabettaPeak.html
 ```
 <!DOCTYPE html>
 <html>
@@ -151,15 +154,16 @@ Execute the programs and publish them.
 
 </body>
 </html>
+
 ```
-
 ## OUTPUT
+![Screenshot 2025-04-28 212156](https://github.com/user-attachments/assets/cbdd961c-b906-4247-a508-d58e0119b9c8)
 
+![Screenshot 2025-04-28 212214](https://github.com/user-attachments/assets/b7852c31-270b-4eb8-b4fd-55398003564c)
 
+![Screenshot 2025-04-28 212228](https://github.com/user-attachments/assets/4dec3718-de80-477b-a6d2-5afd77bf7b68)
 
-
-
-
+![Screenshot 2025-04-28 212243](https://github.com/user-attachments/assets/e4df7264-da7c-4493-a2fa-f5395219cd4c)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
